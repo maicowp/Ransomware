@@ -1,0 +1,3 @@
+MJQP
+
+Este arquivo está legível.
